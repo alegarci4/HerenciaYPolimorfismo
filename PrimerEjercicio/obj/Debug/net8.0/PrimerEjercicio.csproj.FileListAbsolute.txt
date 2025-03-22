@@ -1,0 +1,14 @@
+C:\PrograOrientadaObjetos\PrimerEjercicio\PrimerEjercicio\bin\Debug\net8.0\PrimerEjercicio.exe
+C:\PrograOrientadaObjetos\PrimerEjercicio\PrimerEjercicio\bin\Debug\net8.0\PrimerEjercicio.deps.json
+C:\PrograOrientadaObjetos\PrimerEjercicio\PrimerEjercicio\bin\Debug\net8.0\PrimerEjercicio.runtimeconfig.json
+C:\PrograOrientadaObjetos\PrimerEjercicio\PrimerEjercicio\bin\Debug\net8.0\PrimerEjercicio.dll
+C:\PrograOrientadaObjetos\PrimerEjercicio\PrimerEjercicio\bin\Debug\net8.0\PrimerEjercicio.pdb
+C:\PrograOrientadaObjetos\PrimerEjercicio\PrimerEjercicio\obj\Debug\net8.0\PrimerEjercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\PrograOrientadaObjetos\PrimerEjercicio\PrimerEjercicio\obj\Debug\net8.0\PrimerEjercicio.AssemblyInfoInputs.cache
+C:\PrograOrientadaObjetos\PrimerEjercicio\PrimerEjercicio\obj\Debug\net8.0\PrimerEjercicio.AssemblyInfo.cs
+C:\PrograOrientadaObjetos\PrimerEjercicio\PrimerEjercicio\obj\Debug\net8.0\PrimerEjercicio.csproj.CoreCompileInputs.cache
+C:\PrograOrientadaObjetos\PrimerEjercicio\PrimerEjercicio\obj\Debug\net8.0\PrimerEjercicio.dll
+C:\PrograOrientadaObjetos\PrimerEjercicio\PrimerEjercicio\obj\Debug\net8.0\refint\PrimerEjercicio.dll
+C:\PrograOrientadaObjetos\PrimerEjercicio\PrimerEjercicio\obj\Debug\net8.0\PrimerEjercicio.pdb
+C:\PrograOrientadaObjetos\PrimerEjercicio\PrimerEjercicio\obj\Debug\net8.0\PrimerEjercicio.genruntimeconfig.cache
+C:\PrograOrientadaObjetos\PrimerEjercicio\PrimerEjercicio\obj\Debug\net8.0\ref\PrimerEjercicio.dll

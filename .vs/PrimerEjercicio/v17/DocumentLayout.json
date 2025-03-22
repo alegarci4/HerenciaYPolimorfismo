@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PrograOrientadaObjetos\\PrimerEjercicio\\Herencia-y-Polimorfismo-\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0795F78-2F4D-4612-A27B-72359284EB47}|PrimerEjercicio\\PrimerEjercicio.csproj|c:\\prograorientadaobjetos\\primerejercicio\\herencia-y-polimorfismo-\\primerejercicio\\misclases\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0795F78-2F4D-4612-A27B-72359284EB47}|PrimerEjercicio\\PrimerEjercicio.csproj|solutionrelative:primerejercicio\\misclases\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0795F78-2F4D-4612-A27B-72359284EB47}|PrimerEjercicio\\PrimerEjercicio.csproj|c:\\prograorientadaobjetos\\primerejercicio\\herencia-y-polimorfismo-\\primerejercicio\\misclases\\autodecombustion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0795F78-2F4D-4612-A27B-72359284EB47}|PrimerEjercicio\\PrimerEjercicio.csproj|solutionrelative:primerejercicio\\misclases\\autodecombustion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0795F78-2F4D-4612-A27B-72359284EB47}|PrimerEjercicio\\PrimerEjercicio.csproj|c:\\prograorientadaobjetos\\primerejercicio\\herencia-y-polimorfismo-\\primerejercicio\\misclases\\carroelectrico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0795F78-2F4D-4612-A27B-72359284EB47}|PrimerEjercicio\\PrimerEjercicio.csproj|solutionrelative:primerejercicio\\misclases\\carroelectrico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0795F78-2F4D-4612-A27B-72359284EB47}|PrimerEjercicio\\PrimerEjercicio.csproj|c:\\prograorientadaobjetos\\primerejercicio\\herencia-y-polimorfismo-\\primerejercicio\\misclases\\motocicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0795F78-2F4D-4612-A27B-72359284EB47}|PrimerEjercicio\\PrimerEjercicio.csproj|solutionrelative:primerejercicio\\misclases\\motocicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0795F78-2F4D-4612-A27B-72359284EB47}|PrimerEjercicio\\PrimerEjercicio.csproj|c:\\prograorientadaobjetos\\primerejercicio\\herencia-y-polimorfismo-\\primerejercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0795F78-2F4D-4612-A27B-72359284EB47}|PrimerEjercicio\\PrimerEjercicio.csproj|solutionrelative:primerejercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0795F78-2F4D-4612-A27B-72359284EB47}|PrimerEjercicio\\PrimerEjercicio.csproj|c:\\prograorientadaobjetos\\primerejercicio\\herencia-y-polimorfismo-\\primerejercicio\\misclases\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0795F78-2F4D-4612-A27B-72359284EB47}|PrimerEjercicio\\PrimerEjercicio.csproj|solutionrelative:primerejercicio\\misclases\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PrograOrientadaObjetos\\PrimerEjercicio\\Herencia-y-Polimorfismo-\\PrimerEjercicio\\Program.cs",
+              "RelativeDocumentMoniker": "PrimerEjercicio\\Program.cs",
+              "ToolTip": "C:\\PrograOrientadaObjetos\\PrimerEjercicio\\Herencia-y-Polimorfismo-\\PrimerEjercicio\\Program.cs",
+              "RelativeToolTip": "PrimerEjercicio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T13:49:03.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Camion.cs",
+              "DocumentMoniker": "C:\\PrograOrientadaObjetos\\PrimerEjercicio\\Herencia-y-Polimorfismo-\\PrimerEjercicio\\MisClases\\Camion.cs",
+              "RelativeDocumentMoniker": "PrimerEjercicio\\MisClases\\Camion.cs",
+              "ToolTip": "C:\\PrograOrientadaObjetos\\PrimerEjercicio\\Herencia-y-Polimorfismo-\\PrimerEjercicio\\MisClases\\Camion.cs",
+              "RelativeToolTip": "PrimerEjercicio\\MisClases\\Camion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:49:49.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Motocicleta.cs",
+              "DocumentMoniker": "C:\\PrograOrientadaObjetos\\PrimerEjercicio\\Herencia-y-Polimorfismo-\\PrimerEjercicio\\MisClases\\Motocicleta.cs",
+              "RelativeDocumentMoniker": "PrimerEjercicio\\MisClases\\Motocicleta.cs",
+              "ToolTip": "C:\\PrograOrientadaObjetos\\PrimerEjercicio\\Herencia-y-Polimorfismo-\\PrimerEjercicio\\MisClases\\Motocicleta.cs",
+              "RelativeToolTip": "PrimerEjercicio\\MisClases\\Motocicleta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:03:46.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutoDeCombustion.cs",
+              "DocumentMoniker": "C:\\PrograOrientadaObjetos\\PrimerEjercicio\\Herencia-y-Polimorfismo-\\PrimerEjercicio\\MisClases\\AutoDeCombustion.cs",
+              "RelativeDocumentMoniker": "PrimerEjercicio\\MisClases\\AutoDeCombustion.cs",
+              "ToolTip": "C:\\PrograOrientadaObjetos\\PrimerEjercicio\\Herencia-y-Polimorfismo-\\PrimerEjercicio\\MisClases\\AutoDeCombustion.cs",
+              "RelativeToolTip": "PrimerEjercicio\\MisClases\\AutoDeCombustion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T05:38:29.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "carroElectrico.cs",
+              "DocumentMoniker": "C:\\PrograOrientadaObjetos\\PrimerEjercicio\\Herencia-y-Polimorfismo-\\PrimerEjercicio\\MisClases\\carroElectrico.cs",
+              "RelativeDocumentMoniker": "PrimerEjercicio\\MisClases\\carroElectrico.cs",
+              "ToolTip": "C:\\PrograOrientadaObjetos\\PrimerEjercicio\\Herencia-y-Polimorfismo-\\PrimerEjercicio\\MisClases\\carroElectrico.cs",
+              "RelativeToolTip": "PrimerEjercicio\\MisClases\\carroElectrico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:49:21.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\PrograOrientadaObjetos\\PrimerEjercicio\\Herencia-y-Polimorfismo-\\PrimerEjercicio\\MisClases\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "PrimerEjercicio\\MisClases\\Vehiculo.cs",
+              "ToolTip": "C:\\PrograOrientadaObjetos\\PrimerEjercicio\\Herencia-y-Polimorfismo-\\PrimerEjercicio\\MisClases\\Vehiculo.cs",
+              "RelativeToolTip": "PrimerEjercicio\\MisClases\\Vehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T13:55:57.02Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
